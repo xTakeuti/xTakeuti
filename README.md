@@ -1,6 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Felipe</h1>
 <h3 align="center">Desenvolvedor em formação com habilidades em Python e Excel</h3>
-Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes. Tenho conhecimentos em Python e Microsoft Excel, e busco constantemente aprimorar minhas habilidades nesses programas.
 <h3 align="left">Connect with me:</h3>
 <p align="left">

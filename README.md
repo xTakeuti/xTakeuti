@@ -1,4 +1,6 @@
-<h1 align="center">Oi 👋, Eu sou o Felipe</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipe+Takeuti;I'm+25+years+old;I'm+from+Brasil;I+am+a+Computer+Science+student;Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <h3 align="center">Desenvolvedor em formação com habilidades em Python e Excel</h3>
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes. Tenho conhecimentos em Python e Microsoft Excel, e busco constantemente aprimorar minhas habilidades nesses programas.
 <h3 align="left">Connect with me:</h3>
